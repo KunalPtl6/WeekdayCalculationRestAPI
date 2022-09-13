@@ -9,4 +9,5 @@ Output of Second API with input response : GetWeekdayFromInputDate:
 
 Solution Architecture Image
 
-![image](https://user-images.githubusercontent.com/43945427/189864156-c8ac38fe-9c0a-4c93-86b0-1dd41e067506.png)
+![image](https://user-images.githubusercontent.com/43945427/189865524-e65c69dd-c23f-49e2-b60b-cb53f5c10f00.png)
+
